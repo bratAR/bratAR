@@ -1,20 +1,15 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in you haha
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate with NASA
-- 📫 adityarauniyar65@gmail.com
-- ⚡ Fun fact: sugar cannot be sweet if you don't taste it.
 
-<h1 align="center">Hi 👋, I'm Ashish Bhandari</h1>
-<h3 align="center">An enthusiastic developer 🙂</h3>
+
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">A developer without bleach haha</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashisbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="ashisbhandari" /> </p>
 
 - 🌱 I’m currently learning **Django(python)**
 
-- 📫 How to reach me **ashishbhandari380@gmail.com**
+- 📫 How to reach me **adityarauniyar65@gmail.com**
 
-- ⚡ Fun fact **A poetic mind with a coder’s heart**
+- ⚡ Fun fact **sugar cannot be sweet if you don't taste it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
