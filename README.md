@@ -38,3 +38,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bratAR&show_icons=true&locale=en" alt="adi" /></p>
 <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"></img>
+style="visibility:visible;max-width:100%;"
